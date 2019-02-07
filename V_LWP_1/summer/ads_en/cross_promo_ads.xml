@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ads>
     <ad>
+        <title>Summer Wallpapers</title>
+        <iconUrl>https://goodbuildstudio.files.wordpress.com/2019/01/unnamed-24.png?w=450</iconUrl>
+        <promoLink>com.goodbuild.summerwallpapers</promoLink>
+    </ad>
+    <ad>
         <title>Beach Live Wallpaper</title>
         <iconUrl>https://luxlivewallpaperscreativefactorywallpapers.files.wordpress.com/2019/01/unnamed-96.png?w=450</iconUrl>
         <promoLink>com.lux.live.wallpapers.and.creative.factory.wallpapers.backgrounds.hd.lwp.beach.live.wallpaper</promoLink>
@@ -11,6 +16,11 @@
         <promoLink>com.lux.live.wallpapers.and.creative.factory.wallpapers.backgrounds.hd.lwp.jungle.live.wallpaper</promoLink>
     </ad>
     <ad>
+        <title>Summer Wallpapers</title>
+        <iconUrl>https://aheptonwallpapers.files.wordpress.com/2019/01/unnamed-50.png?w=450</iconUrl>
+        <promoLink>com.ahepton.summerahepton</promoLink>
+    </ad>
+    <ad>
         <title>Ocean Live Wallpaper</title>
         <iconUrl>https://luxlivewallpaperscreativefactorywallpapers.files.wordpress.com/2019/01/unnamed-62.png?w=450</iconUrl>
         <promoLink>com.lux.live.wallpapers.and.creative.factory.wallpapers.backgrounds.hd.lwp.ocean.live.wallpaper</promoLink>
@@ -19,5 +29,35 @@
         <title>Tropical Live Wallpaper</title>
         <iconUrl>https://luxlivewallpaperscreativefactorywallpapers.files.wordpress.com/2019/01/unnamed-18.png?w=450</iconUrl>
         <promoLink>com.lux.live.wallpapers.and.creative.factory.wallpapers.backgrounds.hd.lwp.tropical.live.wallpaper</promoLink>
+    </ad>
+    <ad>
+        <title>Sea Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-95.png?w=450</iconUrl>
+        <promoLink>com.blwp.sea</promoLink>
+    </ad>
+    <ad>
+        <title>Ocean Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-46.png?w=450</iconUrl>
+        <promoLink>com.blwp.ocean</promoLink>
+    </ad>
+    <ad>
+        <title>Beach Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-90.png?w=450</iconUrl>
+        <promoLink>com.blwp.beach</promoLink>
+    </ad>
+    <ad>
+        <title>Sunny Forest Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-50.png?w=450</iconUrl>
+        <promoLink>com.blwp.sunnyforest</promoLink>
+    </ad>
+    <ad>
+        <title>Tropical Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-67.png?w=450</iconUrl>
+        <promoLink>com.blwp.tropical</promoLink>
+    </ad>
+    <ad>
+        <title>Sea Shells Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-19.png?w=450</iconUrl>
+        <promoLink>com.blwp.seashells</promoLink>
     </ad>
 </ads>
