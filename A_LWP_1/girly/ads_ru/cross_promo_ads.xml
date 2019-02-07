@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ads>
     <ad>
+        <title>Живые Обои для Девочек</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-44.png?w=450</iconUrl>
+        <promoLink>com.blwp.forgirls</promoLink>
+    </ad>
+    <ad>
         <title>День Святого Валентина Живые Обои</title>
         <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-30.png?w=450</iconUrl>
         <promoLink>com.blwp.valentinesday</promoLink>
@@ -26,14 +31,9 @@
         <promoLink>com.blwp.kiss</promoLink>
     </ad>
     <ad>
-        <title>Розовые Живые Обои</title>
-        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-43.png?w=450</iconUrl>
-        <promoLink>com.blwp.pink</promoLink>
-    </ad>
-    <ad>
-        <title>Живые Обои для Девочек</title>
-        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-44.png?w=450</iconUrl>
-        <promoLink>com.blwp.forgirls</promoLink>
+        <title>Единорог Живые Обои</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-42.png?w=450</iconUrl>
+        <promoLink>com.blwp.unicorn</promoLink>
     </ad>
     <ad>
         <title>Романтические Живые Обои</title>
@@ -63,5 +63,10 @@
         <title>Я Тебя Люблю Живые Обои</title>
         <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-91.png?w=450</iconUrl>
         <promoLink>com.blwp.iloveyou</promoLink>
+    </ad>
+    <ad>
+        <title>Розовые Живые Обои</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-43.png?w=450</iconUrl>
+        <promoLink>com.blwp.pink</promoLink>
     </ad>
 </ads>
