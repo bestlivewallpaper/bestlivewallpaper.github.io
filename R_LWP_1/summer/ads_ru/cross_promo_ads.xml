@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ads>
     <ad>
+        <title>Лето Обои</title>
+        <iconUrl>https://goodbuildstudio.files.wordpress.com/2019/01/unnamed-24.png?w=450</iconUrl>
+        <promoLink>com.goodbuild.summerwallpapers</promoLink>
+    </ad>
+    <ad>
         <title>Ягоды Живые Обои</title>
         <iconUrl>https://bestlivewallpaperbackgroundshdgirlyapps.files.wordpress.com/2019/01/unnamed-10.png</iconUrl>
         <promoLink>com.best.live.wallpaper.backgrounds.hd.theme.girly.wallpapers.images.lwp.berries.live.wallpaper</promoLink>
@@ -9,6 +14,11 @@
         <title>Пляж Живые Обои</title>
         <iconUrl>https://bestlivewallpaperbackgroundshdgirlyapps.files.wordpress.com/2019/01/unnamed-93.png</iconUrl>
         <promoLink>com.best.live.wallpaper.backgrounds.hd.theme.girly.wallpapers.images.lwp.beach.live.wallpaper</promoLink>
+    </ad>
+    <ad>
+        <title>Лето Обои</title>
+        <iconUrl>https://aheptonwallpapers.files.wordpress.com/2019/01/unnamed-50.png?w=450</iconUrl>
+        <promoLink>com.ahepton.summerahepton</promoLink>
     </ad>
     <ad>
         <title>Тропические Живые Обои</title>
@@ -24,5 +34,35 @@
         <title>Джунгли Живые Обои</title>
         <iconUrl>https://bestlivewallpaperbackgroundshdgirlyapps.files.wordpress.com/2019/01/unnamed-89.png</iconUrl>
         <promoLink>com.best.live.wallpaper.backgrounds.hd.theme.girly.wallpapers.images.lwp.jungle.live.wallpaper</promoLink>
+    </ad>
+    <ad>
+        <title>Море Живые Обои</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-95.png?w=450</iconUrl>
+        <promoLink>com.blwp.sea</promoLink>
+    </ad>
+    <ad>
+        <title>Пляж Живые Обои</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-90.png?w=450</iconUrl>
+        <promoLink>com.blwp.beach</promoLink>
+    </ad>
+    <ad>
+        <title>Солнечный Лес Живые Обои</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-50.png?w=450</iconUrl>
+        <promoLink>com.blwp.sunnyforest</promoLink>
+    </ad>
+    <ad>
+        <title>Тропические Живые Обои</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-67.png?w=450</iconUrl>
+        <promoLink>com.blwp.tropical</promoLink>
+    </ad>
+    <ad>
+        <title>Океан Живые Обои</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-46.png?w=450</iconUrl>
+        <promoLink>com.blwp.ocean</promoLink>
+    </ad>
+    <ad>
+        <title>Ракушки Живые Обои</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-19.png?w=450</iconUrl>
+        <promoLink>com.blwp.seashells</promoLink>
     </ad>
 </ads>
