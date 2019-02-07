@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ads>
     <ad>
+        <title>Horses Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-99.png?w=450</iconUrl>
+        <promoLink>com.blwp.horses</promoLink>
+    </ad>
+    <ad>
+        <title>Cheetah Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-24.png?w=450</iconUrl>
+        <promoLink>com.blwp.cheetah</promoLink>
+    </ad>
+    <ad>
         <title>Fox Live Wallpaper</title>
         <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-15.png?w=450</iconUrl>
         <promoLink>com.blwp.fox</promoLink>
     </ad>
     <ad>
-        <title>Dinosaur Live Wallpaper</title>
-        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-6.png?w=450</iconUrl>
-        <promoLink>com.blwp.dinosaur</promoLink>
+        <title>Husky Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-2.png?w=450</iconUrl>
+        <promoLink>com.blwp.husky</promoLink>
     </ad>
     <ad>
-        <title>Unicorn Live Wallpaper</title>
-        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-42.png?w=450</iconUrl>
-        <promoLink>com.blwp.unicorn</promoLink>
+        <title>German Shepherd Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-1.png?w=450</iconUrl>
+        <promoLink>com.blwp.germanshepherd</promoLink>
     </ad>
     <ad>
         <title>Snake Live Wallpaper</title>
@@ -21,9 +31,9 @@
         <promoLink>com.blwp.snake</promoLink>
     </ad>
     <ad>
-        <title>Horses Live Wallpaper</title>
-        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-99.png?w=450</iconUrl>
-        <promoLink>com.blwp.horses</promoLink>
+        <title>Tiger Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-9.png?w=450</iconUrl>
+        <promoLink>com.blwp.tiger</promoLink>
     </ad>
     <ad>
         <title>Spider Live Wallpaper</title>
@@ -31,9 +41,9 @@
         <promoLink>com.blwp.spider</promoLink>
     </ad>
     <ad>
-        <title>Ladybug Live Wallpaper</title>
-        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-17.png?w=450</iconUrl>
-        <promoLink>com.blwp.ladybug</promoLink>
+        <title>Cats And Dogs Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed.png?w=450</iconUrl>
+        <promoLink>com.blwp.catsdogs</promoLink>
     </ad>
     <ad>
         <title>Wolf Live Wallpaper</title>
@@ -59,5 +69,15 @@
         <title>Birds Live Wallpaper</title>
         <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-21.png?w=450</iconUrl>
         <promoLink>com.blwp.birds</promoLink>
+    </ad>
+    <ad>
+        <title>Ladybug Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-17.png?w=450</iconUrl>
+        <promoLink>com.blwp.ladybug</promoLink>
+    </ad>
+    <ad>
+        <title>Dinosaur Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-6.png?w=450</iconUrl>
+        <promoLink>com.blwp.dinosaur</promoLink>
     </ad>
 </ads>
