@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ads>
+    <ad>
+        <title>Abstract Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-8.png?w=450</iconUrl>
+        <promoLink>com.blwp.abstractions</promoLink>
+    </ad>
+    <ad>
+        <title>Ink In Water Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-13.png?w=450</iconUrl>
+        <promoLink>com.blwp.inkinwater</promoLink>
+    </ad>
+    <ad>
+        <title>Fire Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-23.png?w=450</iconUrl>
+        <promoLink>com.blwp.fire</promoLink>
+    </ad>
+    <ad>
+        <title>Graffiti Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-31.png?w=450</iconUrl>
+        <promoLink>com.blwp.graffiti</promoLink>
+    </ad>
+</ads>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ads>
+    <ad>
+        <title>Husky Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-2.png?w=450</iconUrl>
+        <promoLink>com.blwp.husky</promoLink>
+    </ad>
+    <ad>
+        <title>German Shepherd Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-1.png?w=450</iconUrl>
+        <promoLink>com.blwp.germanshepherd</promoLink>
+    </ad>
+    <ad>
+        <title>Labrador Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-88.png?w=450</iconUrl>
+        <promoLink>com.blwp.labrador</promoLink>
+    </ad>
+    <ad>
+        <title>Dogs Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-69.png?w=450</iconUrl>
+        <promoLink>com.blwp.dogs</promoLink>
+    </ad>
+</ads>

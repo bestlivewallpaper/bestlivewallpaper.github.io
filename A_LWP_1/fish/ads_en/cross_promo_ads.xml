@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ads>
+    <ad>
+        <title>Fish Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-62.png?w=450</iconUrl>
+        <promoLink>com.blwp.fish</promoLink>
+    </ad>
+    <ad>
+        <title>Dolphin Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-96.png?w=450</iconUrl>
+        <promoLink>com.blwp.dolphin</promoLink>
+    </ad>
+    <ad>
+        <title>Aquarium Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-52.png?w=450</iconUrl>
+        <promoLink>com.blwp.aquarium</promoLink>
+    </ad>
+    <ad>
+        <title>Koi Fish Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-53.png?w=450</iconUrl>
+        <promoLink>com.blwp.koifish</promoLink>
+    </ad>
+    <ad>
+        <title>Shark Live Wallpaper</title>
+        <iconUrl>https://bestlivewallpaper.files.wordpress.com/2019/01/unnamed-58.png?w=450</iconUrl>
+        <promoLink>com.blwp.shark</promoLink>
+    </ad>
+</ads>
